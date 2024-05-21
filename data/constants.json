@@ -1,0 +1,14 @@
+{
+    "testScripConstants":{
+        "password": "Turquesa0211",
+        "latmobilePrefixUsername":"latmobile-dummy-email",
+        "incorrectEmail": "novaliddummy-username@mail.com",
+        "incorrectPassword": "incorrectPasswordDummy",
+        "latmobileSuffix":"@mail.com",
+        "registrationCompleteText":"Registration successfully finished!",
+        "demoCasinoURL":"https://demo.casino/"
+    },
+    "timeoutConstants":{
+        "implicitTimeout": 30000
+    }
+}

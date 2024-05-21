@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "module": "ESNext",
+        "types": [
+            "node",
+            "@playwright/test"
+        ],
+        "target": "es2022",
+    }
+}
